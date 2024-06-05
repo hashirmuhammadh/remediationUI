@@ -1,0 +1,26 @@
+.top-bar {
+  /* background: linear-gradient(to right, #001f3f,#0000FF,#001f3f,#0000FF,#001f3f); */
+  background: #444a4e;
+  height: 75px;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  border-bottom: 1px solid #252525;
+  margin-bottom: 15px;
+}
+
+.logo img {
+  height: 30px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.backto-home {
+  color: #e4e4e4;
+  font-size: 22px;
+  cursor: pointer;
+  margin-right: 20px;
+  margin-top: 11px;
+  
+}
